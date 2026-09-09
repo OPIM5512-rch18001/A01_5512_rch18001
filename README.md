@@ -7,4 +7,4 @@
 
 🏃 Run the Script: The code is contained in the src folder. Run the "boxplot.py" script.
 
-🖨️ Expected Output: Two saved boxplot images. These will be saved to the figs folder.
+🖨️ Expected Output: Two boxplot images saved to the figs folder.
