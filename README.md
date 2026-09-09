@@ -5,6 +5,6 @@
 
 🏠 Data: California Housing dataset
 
-🏃 Run the Script: <blank>
+🏃 Run the Script: The code is contained in the src folder. Run the "boxplot.py" script.
 
-🖨️ Expected Output: <blank>
+🖨️ Expected Output: Two saved boxplot images. These will be saved to the figs folder.
